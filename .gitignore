@@ -1,0 +1,22 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.coverage
+htmlcov/
+
+# Environment and secrets
+.env
+.venv/
+
+# Python cache and test reports
+__pycache__/
+.pytest_cache/
+*.pyc
+.coverage
+htmlcov/
+
+# Runtime logs and local test payloads
+logs/
+request.json
